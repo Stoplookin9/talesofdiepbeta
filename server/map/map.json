@@ -1,0 +1,76 @@
+{
+  "SERVER": {
+    "1": {
+        "IP": "0.0.0.0", 
+        "NAME": "FFA", 
+        "TEAM": "f", 
+        "MODE": "norm",
+        "TIME": 28800, 
+        "LIMIT": 20, 
+        "BOT": 10, 
+        "SETUP": [
+            ["roid", "rock", "norm", "norm", "norm", "rock", "norm", "norm", "norm", "rock", "roid"], 
+            ["rock", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "rock"], 
+            ["norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm"], 
+            ["norm", "norm", "norm", "roid", "rock", "norm", "rock", "roid", "norm", "norm", "norm"],
+            ["norm", "norm", "norm", "rock", "nest", "nest", "nest", "rock", "norm", "norm", "norm"],
+            ["rock", "norm", "norm", "norm", "nest", "rock", "nest", "norm", "norm", "norm", "rock"],
+            ["norm", "norm", "norm", "rock", "nest", "nest", "nest", "rock", "norm", "norm", "norm"],
+            ["norm", "norm", "norm", "roid", "rock", "norm", "rock", "roid", "norm", "norm", "norm"],
+            ["norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm"],
+            ["rock", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "rock"], 
+            ["roid", "rock", "norm", "norm", "norm", "rock", "norm", "norm", "norm", "rock", "roid"]
+        ]
+     }, 
+     "2": {
+        "IP": "0.0.0.0", 
+        "NAME": "2TDM", 
+        "TEAM": "2", 
+        "MODE": "norm",
+        "TIME": 28800, 
+        "LIMIT": 20, 
+        "BOT": 10, 
+        "SETUP": [
+            ["bas1", "rock", "norm", "norm", "norm", "rock", "norm", "norm", "norm", "rock", "bas2"], 
+            ["bas1", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "bas2"], 
+            ["bap1", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "bap2"], 
+            ["bas1", "norm", "norm", "norm", "nest", "nest", "nest", "norm", "norm", "norm", "bas2"],
+            ["bas1", "rock", "norm", "norm", "nest", "rock", "nest", "norm", "norm", "rock", "bas2"],
+            ["bap1", "roid", "norm", "norm", "nest", "roid", "nest", "norm", "norm", "roid", "bap2"],
+            ["bas1", "rock", "norm", "norm", "nest", "rock", "nest", "norm", "norm", "rock", "bas2"],
+            ["bas1", "norm", "norm", "norm", "nest", "nest", "nest", "norm", "norm", "norm", "bas2"],
+            ["bap1", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "bap2"],
+            ["bas1", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "bas2"], 
+            ["bas1", "rock", "norm", "norm", "norm", "rock", "norm", "norm", "norm", "rock", "bas2"]
+        ]
+     }
+  }, 
+  "3": {
+        "IP": "0.0.0.0", 
+        "NAME": "Maze", 
+        "TEAM": "f", 
+        "MODE": "norm",
+        "TIME": 28800, 
+        "LIMIT": 20, 
+        "BOT": 10, 
+        "SETUP": [
+            ["norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm"], 
+            ["norm", "maze", "maze", "maze", "maze", "maze", "maze", "maze", "maze", "maze", "norm"], 
+            ["norm", "maze", "maze", "maze", "maze", "maze", "maze", "maze", "maze", "maze", "norm"], 
+            ["norm", "maze", "maze", "maze", "maze", "maze", "maze", "maze", "maze", "maze", "norm"], 
+            ["norm", "maze", "maze", "maze", "nest", "nest", "nest", "maze", "maze", "maze", "norm"],
+            ["norm", "maze", "maze", "maze", "nest", "norm", "nest", "maze", "maze", "maze", "norm"],
+            ["norm", "maze", "maze", "maze", "nest", "nest", "nest", "maze", "maze", "maze", "norm"],
+            ["norm", "maze", "maze", "maze", "maze", "maze", "maze", "maze", "maze", "maze", "norm"], 
+            ["norm", "maze", "maze", "maze", "maze", "maze", "maze", "maze", "maze", "maze", "norm"], 
+            ["norm", "maze", "maze", "maze", "maze", "maze", "maze", "maze", "maze", "maze", "norm"], 
+            ["norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm"]
+        ]
+     }, 
+  "GLOBAL": {
+    
+  },
+  "REALM": {
+  
+  }
+}
