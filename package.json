@@ -1,0 +1,14 @@
+{
+  "name": "talesofdiepbeta",
+  "version": "0.1.1",
+  "description": "Tales of Diep beta",
+  "main": "app.js",
+  "dependencies": {
+    "node": "^16.13.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Stoplookin9",
+  "license": "MIT"
+}
